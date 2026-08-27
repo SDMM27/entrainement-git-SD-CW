@@ -6,3 +6,6 @@
 ## Objectifs
 
 - Comprendre Git
+
+## Relecture
+Ajoute une section relecture
