@@ -1,4 +1,4 @@
-# Journal de qfqfqf
+# Journal de segseg
 
 - Jour 1 : mise en place
 - Jour 2 : deuxième entrée
